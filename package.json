@@ -1,5 +1,5 @@
 {
-  "name": "@mk/get-function-arguments",
+  "name": "@marvinkassabian/get-function-arguments",
   "version": "1.0.0",
   "description": "get arguments of function",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/marvinkassabian/get-function-arguments.git"
   },
-  "author": "Marvin Kassabian <@marvinkassabian>",
+  "author": "marvin.kassabian@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/marvinkassabian/get-function-arguments/issues"
